@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning JavaScript, Python, Vue.js, React, Django
-- 🤔 I’m looking for help with React
+- 🌱 I’m currently learning JavaScript, Python, Django
+- 🤔 I’m looking for help with Django
 
 <!--
-**ssmin0606/ssmin0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dev-yun/dev-yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![ssmin0606's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmin0606&count_private=true&show_icons=true&theme=dark)
+![dev-yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yun&count_private=true&show_icons=true&theme=dark)
 
 
 
@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
