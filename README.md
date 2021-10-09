@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🌱 I’m currently learning JavaScript, Python, Django
 - 🤔 I’m looking for help with Django
 
