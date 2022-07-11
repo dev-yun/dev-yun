@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=blue)
